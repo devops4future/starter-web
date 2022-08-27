@@ -8,9 +8,10 @@ This is an example to show different parts of the Git repository and varios comm
 
 ## Purpose
 
-This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Deployment
+
+This is a sample web project, deployment can be on any web server.
 
 ## How to contribute
